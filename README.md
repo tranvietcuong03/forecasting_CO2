@@ -9,10 +9,6 @@ This repository contains a dataset with CO2 emissions calculated at various date
 ## Dataset
 Dataset: [Download here](https://github.com/tranvietcuong03/forecasting_CO2/blob/master/co2.csv) <br>
 
-## Data Preprocessing
-* Cleaning: Handled missing values and outliers.
-* Feature Engineering: Used RandomOverSampler to make a balance-data
-
 ## Usage
 This dataset can be used for various purposes, such as:
 * Analyzing historical CO2 emissions trends.
