@@ -1,4 +1,4 @@
-# Career Levels Classification
+# CO2 forecasting
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-green?style=for-the-badge&logo=matplotlib&logoColor=white)
